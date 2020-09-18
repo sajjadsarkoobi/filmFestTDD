@@ -14,4 +14,5 @@ Splash | Welcome | Info
 
 Cell Magnigire |
 --- |
-![maginifire](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/cellMagnifier.png){width="480px"}
+<img src="https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/cellMagnifier.png" width="300" />
+
