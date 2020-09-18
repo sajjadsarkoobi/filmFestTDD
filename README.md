@@ -3,10 +3,12 @@ An app that lists bus travel schedules for a given route and a given date
 
 
 ## App show case
-<div style="text-align:center"><img src="https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/busbudShowCase.gif" /></div>
+<p align="center">
+  <img src="https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/busbudShowCase.gif" />
+</p>
+
 
 ## Screen shots
-
 
 Splash | Welcome | Info
 --- | ---  | ---
