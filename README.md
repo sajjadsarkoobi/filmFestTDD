@@ -31,7 +31,9 @@ I used one of the UI designes from `Ayik Four` and change the color of his chara
 
 ## Challenges:
 As described in the requirements, we need to pass search parameters to the endpoint:
+
 `https://napi.busbud.com/x-departures/:origin/:destination/:outbound_date`
+
 and then for loading more, we have to send the same search parameters plus `index` and add `poll` at the end of base search path for loading more data.
 so the search requires Model will be like this:
 ```
@@ -59,7 +61,8 @@ APIRouter | Create routes by specifying the path, method, parameters and setting
 APIParameterKey | Provide parameters for using in APIRouter.
 NetworkConstants | All the constants that needs for requesting data from server.
  
-Loading data:
+*Loading data:*
+
 by calling the initial search endpoint server returns:
 ```
 {
@@ -125,7 +128,8 @@ toCurrencyFormat
 
 For simplicity, app uses a TitleView class to add it as a view for the navigation bar. It shows the  "From - > To"  with the date that the user searched. also, it has a model view for presenting data
 
-*cell:
+*cell:*
+
 shows various essential data:
 Date, Price, departure time, arrival time, duration, where to go on the bus, and where the bus will stop. Company name, up to 4 amenities, the total available seats.
 
