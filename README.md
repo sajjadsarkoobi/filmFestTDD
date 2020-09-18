@@ -25,6 +25,7 @@ If arrive in the next day |
 
 ## UI Characters:
 I used one of the UI designes from `Ayik Four` and change the color of his characters to match Busbud brand.
+
 `https://dribbble.com/ayikfour`
 
 
@@ -106,6 +107,7 @@ So we have to do some mapping and extracting data from the objects for presentin
 In those case, we need a Model Manager that can handle all these and prepare a clean Array of DeparturesCellViewModel for our table view.
 
 When we already have the initial search on the next loading data, the Model Manager just adds data to the departures and operators list. This achieved by:
+
 `public func addRouteData`
 
 some of the helper functions in this manager are:
@@ -123,9 +125,10 @@ toCurrencyFormat
 
 For simplicity, app uses a TitleView class to add it as a view for the navigation bar. It shows the  "From - > To"  with the date that the user searched. also, it has a model view for presenting data
 
-cell:
+*cell:
 shows various essential data:
 Date, Price, departure time, arrival time, duration, where to go on the bus, and where the bus will stop. Company name, up to 4 amenities, the total available seats.
+
 ![cell](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/cells.png)
 
 # Loading More data Challeng:
@@ -139,9 +142,9 @@ if self.canLoadMore && self.dataSource.count == 0 && data.departures.count == 0 
 
 
 ## To be improved
-Adding no data lable or view when nothing to present.
-Needs to know better server behaiviours for creating robust data presentation.
-Model Manager.
-Models.
-Cell UIView.
+- [ ] Adding no data lable or view when nothing to present.
+- [ ] Needs to know better server behaiviours for creating robust data presentation.
+- [ ] Model Manager.
+- [ ] Models.
+- [ ] Cell UIView.
 
