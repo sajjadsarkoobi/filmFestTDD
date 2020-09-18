@@ -12,7 +12,7 @@ Splash | Welcome | Info
 --- | ---
 ![search](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/search.png) | ![searchResult](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/searchResult.png)
 
-Cell Magnigire |
+If arrive in the next day |
 --- |
 <img src="https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/cellMagnifier.png" width="300" />
 
