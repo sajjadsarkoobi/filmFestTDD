@@ -5,12 +5,12 @@ An app that lists bus travel schedules for a given route and a given date
 
 
 Splash | Welcome | Info
---- | ---
+--- | ---  | ---
 ![splash](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/splashScreen.png) | ![Welcome](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/welcom.png) | ![info](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/info.png)
 
  Search | Search Result
 --- | ---
-![search](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/search.png)
+![search](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/search.png) | ![searchResult](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/searchResult.png)
 
 Cell Magnigire |
 --- |
