@@ -1,7 +1,7 @@
 # Busbud coding challenge
 An app that lists bus travel schedules for a given route and a given date
 
-##Screen shots
+## Screen shots
 
 
 Splash | Welcome | Info
@@ -14,4 +14,4 @@ Splash | Welcome | Info
 
 Cell Magnigire |
 --- |
-![maginifire](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/cellMagnifier.png)
+![maginifire](https://github.com/sajjadsarkoobi/coding-challenge-native-b/blob/main/Screenshots/cellMagnifier.png | width=400)
