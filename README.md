@@ -61,7 +61,7 @@ APIRouter | Create routes by specifying the path, method, parameters and setting
 APIParameterKey | Provide parameters for using in APIRouter.
 NetworkConstants | All the constants that needs for requesting data from server.
  
-*Loading data:*
+**Loading data:**
 
 by calling the initial search endpoint server returns:
 ```
@@ -128,7 +128,7 @@ toCurrencyFormat
 
 For simplicity, app uses a TitleView class to add it as a view for the navigation bar. It shows the  "From - > To"  with the date that the user searched. also, it has a model view for presenting data
 
-*cell:*
+**cell:**
 
 shows various essential data:
 Date, Price, departure time, arrival time, duration, where to go on the bus, and where the bus will stop. Company name, up to 4 amenities, the total available seats.
